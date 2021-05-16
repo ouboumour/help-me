@@ -12,6 +12,8 @@
    ![](assets/2.png)
    ![](assets/3.png)
 -----------------
-3. put the public key in the SSH Keys section.
+3. put the public key in the SSH Keys section.  
+
+
 ![](assets/4.png)
 ![](assets/5.png)

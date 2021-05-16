@@ -5,12 +5,15 @@
 --------------------
 
 2. Tape to generate an ssh key the command :  
-    > ssh-keygen   
    
+   > ssh-keygen   
    PS : Hit enter for each other asked information.
+   
+   
    ![](assets/1.png)  
    ![](assets/2.png)
    ![](assets/3.png)
+   
 -----------------
 3. put the public key in the SSH Keys section.  
 

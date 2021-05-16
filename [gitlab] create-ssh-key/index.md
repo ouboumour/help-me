@@ -2,6 +2,8 @@
 
 ----------------------
 1. Open your terminal.
+
+
 --------------------
 
 2. Tape to generate an ssh key the command :  

@@ -7,6 +7,7 @@
 2. Tape to generate an ssh key the command :  
    
    > ssh-keygen   
+
    PS : Hit enter for each other asked information.
    
    
